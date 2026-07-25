@@ -125,7 +125,6 @@ This project focuses on learning the fundamentals and therefore has several limi
 - No centralized exception handling.
 - No ORM (Entity Framework / Dapper).
 - Basic UI validation only.
-- No unit tests.
 
 These are acknowledged limitations rather than overlooked issues.
 
